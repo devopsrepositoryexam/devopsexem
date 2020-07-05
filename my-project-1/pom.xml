@@ -6,13 +6,8 @@
   <name>Project1</name>
   <dependencies>
     <dependency>
-      <groupId>com.skfai.project2</groupId>
-      <artifactId>my-project-2</artifactId>
-      <version>0.0.1</version>
-    </dependency>
-       <dependency>
-      <groupId>com.skfai.project3</groupId>
-      <artifactId>my-project-3</artifactId>
+      <groupId>com.skfai.project5</groupId>
+      <artifactId>my-project-5</artifactId>
       <version>0.0.1</version>
     </dependency>
   </dependencies>
